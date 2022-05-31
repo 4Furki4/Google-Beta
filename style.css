@@ -1,0 +1,55 @@
+.googleIMG {
+    width: 340px;
+    margin: 50px auto 30px auto;
+}
+
+.search {
+    background-color: rgb(243, 243, 243);
+}
+.textupper {
+    text-align: center;
+    font-size: 24px;
+    font-family: Source Sans Pro;
+    font-style: italic;
+    font-weight:500;
+}
+#src-box {
+    width: 400px;
+    margin-top: 5px;
+    margin-left: 47rem;
+}
+#googleSearch {
+    margin-left: 53rem;
+    margin-right: 1px;
+}
+.f-box {
+    width: 33%;
+    height: 99px;
+    background-color: aquamarine;
+    text-align: center;
+    line-height: 12px;
+    padding: 1px;
+    float: left;
+}
+.s-box {
+    width: 27%;
+    height: 99px;
+    background-color: rgb(67, 153, 124);
+    text-align: center;
+    float: left;
+    padding: 1px;
+    line-height: 5px;
+}
+.t-box {
+    width: 39.5%;
+    height: 99px;
+    background-color: rgb(117, 207, 177);
+    text-align: center;
+    float: left;
+    padding: 1px;
+}
+
+
+.bg-red {
+    background-color: red;
+}
